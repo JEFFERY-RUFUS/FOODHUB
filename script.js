@@ -17,7 +17,7 @@ function placeOrder(event) {
 
     const message = `Hello, I would like to order ${quantity} x ${foodItem}.`;
 
-    // Replace below with your real WhatsApp number (without + sign, add country code)
+   
     const phoneNumber = "917806967084"; // <-- PUT YOUR PHONE NUMBER HERE
 
     // WhatsApp link

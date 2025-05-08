@@ -25,7 +25,7 @@ nav a {
 
 
 .hero {
-    background: url('https://via.placeholder.com/1200x400') no-repeat center center/cover;
+    background: url('https://via.placeholder.com/1200x400') no-repeat center/cover;
     height: 300px;
     color: white;
     display: flex;
